@@ -80,8 +80,8 @@ The clustering quality is moderate. The final clusters mainly separate beans acc
 
 ## Files
 
-- `draft.ipynb` → exploratory clustering analysis with K-Means, DBSCAN, and HAC
-- `final.ipynb` → final clustering analysis and conclusions
+- `01_full_experimental_analysis.ipynb` → exploratory clustering analysis with K-Means, DBSCAN, and HAC
+- `02_final_clustering_analysis.ipynb` → final clustering analysis and conclusions
 - `Dry_Bean_Dataset.xlsx` → dataset file
 
 ---
@@ -97,6 +97,7 @@ Main Python libraries used in the project:
 - scikit-learn
 - scipy
 - plotly
+- openpyxl
 
 ---
 
