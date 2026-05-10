@@ -35,7 +35,7 @@ The original dataset also includes a `Class` column with seven bean types. This 
 
 - Assoc. Prof. Dr. Murat Köklü
 - Assoc. Prof. Dr. İlker Ali Özkan
-- Selçuk University, Turkey
+
 
 ### License
 
