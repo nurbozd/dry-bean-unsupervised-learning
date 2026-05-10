@@ -31,7 +31,7 @@ The dataset contains 13,611 dry bean samples and 16 numerical features. These fe
 
 The original dataset also includes a `Class` column with seven bean types. This label column was removed before clustering because the project follows an unsupervised learning approach.
 
-### Authors
+### Dataset Authors
 
 - Assoc. Prof. Dr. Murat Köklü
 - Assoc. Prof. Dr. İlker Ali Özkan
